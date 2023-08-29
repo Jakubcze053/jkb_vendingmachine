@@ -1,7 +1,7 @@
 # jkb_vendingmachine
 Advanced  Vending Machine
 
-> ***Vending Machine by Jak$bcz€™#3297
+> Vending Machine by Jak$bcz€™#3297
 > 
 > Buy super drinks at the Vending Machine
 > 
